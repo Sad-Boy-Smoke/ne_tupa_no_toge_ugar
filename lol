@@ -1,4 +1,4 @@
-$pythonScriptUrl = "https://github.com/Sad-Boy-Smoke/tupa_ugar_epta/blob/main/kakaschke"
+$pythonScriptUrl = "https://raw.githubusercontent.com/Sad-Boy-Smoke/tupa_ugar_epta/refs/heads/main/kakaschke"
 
 $outputFile = "hello.py"
 
